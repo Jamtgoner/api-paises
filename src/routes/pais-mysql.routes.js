@@ -1,5 +1,5 @@
 import { Router } from "express";
-import {getPaises,getPais, getRandom, getPaisDiv, getPaisesIdioma } from "../controllers/pais.controller.js"
+import {getPaises,getPais, getRandom, getPaisDiv, getPaisesIdioma } from "../controllers/pais-mysql.controller.js"
 
 const router = Router()
 

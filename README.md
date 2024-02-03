@@ -1,9 +1,7 @@
 
 # Endpoints
 
-URL Base: https://api-paises-production.up.railway.app/v1
-
-Esta es la url base para acceder a los diferentes endpoints. Todos los endpoints son solicitudes GET y devuelven información en formato JSON
+Todos los endpoints son solicitudes GET y devuelven información en formato JSON
 
 Actualmente la API tiene estos diferentes endpoints:
 
@@ -17,6 +15,7 @@ Actualmente la API tiene estos diferentes endpoints:
 
 - **/divisa/{codigoDivisa}** : Devuelve un listado de los países que usan la divisa colocada en base al código de esta. EUR = Euro / USD = Dólar estadounidense, etc
 
-## Contribuciones
+---
 
-Si realizan alguna **pull request** para algun cambio que consideren necesario favor colocar la razón del porque consideran se requiere dicho cambio.
+- V1 = MySQL Database
+- V2 = PostgreSQL Database

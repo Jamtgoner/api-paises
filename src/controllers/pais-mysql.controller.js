@@ -1,10 +1,10 @@
-import { pool } from "../db.js";
+import { poolMysql } from "../db.js";
 import { DB_NAME } from "../config.js";
 
-export const getPaises = async (req, res) => {
+export const getPaises = async (_req, res) => {
   res.header("Access-Control-Allow-Origin", "*");
   try {
-    const [result] = await pool.query(`SELECT * FROM ${DB_NAME}.pais`);
+    const [result] = await poolMysql.query(`SELECT * FROM ${DB_NAME}.pais`);
 
     // Procesar los resultados para convertir las cadenas en arrays
     const resultadosProcesados = result.map((pais) => ({
@@ -22,7 +22,7 @@ export const getPaises = async (req, res) => {
 export const getPais = async (req, res) => {
   res.header("Access-Control-Allow-Origin", "*");
   try {
-      const [result] = await pool.query(`SELECT * FROM ${DB_NAME}.pais WHERE idPais = ?`, [req.params.id]);
+      const [result] = await poolMysql.query(`SELECT * FROM ${DB_NAME}.pais WHERE idPais = ?`, [req.params.id]);
 
       if (result.length === 0) {
           return res.status(404).json({ error: "Pais no existe, verificar id" });
@@ -40,10 +40,10 @@ export const getPais = async (req, res) => {
   }
 };
 
-export const getRandom = async (req, res) => {
+export const getRandom = async (_req, res) => {
   res.header("Access-Control-Allow-Origin", "*");
   try {
-    const [result] = await pool.query(`SELECT * FROM ${DB_NAME}.pais ORDER BY RAND() LIMIT 20;`);
+    const [result] = await poolMysql.query(`SELECT * FROM ${DB_NAME}.pais ORDER BY RAND() LIMIT 20;`);
 
     // Procesar los resultados para convertir las cadenas en arrays
     const resultadosProcesados = result.map((pais) => ({
@@ -61,7 +61,7 @@ export const getRandom = async (req, res) => {
 export const getPaisDiv = async (req, res) => {
   res.header("Access-Control-Allow-Origin", "*");
   try {
-    const result = await pool.query(`SELECT * FROM ${DB_NAME}.pais WHERE codigoDivisa LIKE ?`, [`%${req.params.codDiv}%`]);
+    const result = await poolMysql.query(`SELECT * FROM ${DB_NAME}.pais WHERE codigoDivisa LIKE ?`, [`%${req.params.codDiv}%`]);
 
     if (result.length === 0) {
         return res.status(404).json({ error: "No hay ningun pais con esa divisa" });
@@ -90,7 +90,7 @@ export const getPaisDiv = async (req, res) => {
 export const getPaisesIdioma = async (req, res) => {
   res.header("Access-Control-Allow-Origin", "*");
   try {
-    const [result] = await pool.query(`SELECT * FROM ${DB_NAME}.pais WHERE idioma LIKE ?`, [`%${req.params.idioma}%`]);
+    const [result] = await poolMysql.query(`SELECT * FROM ${DB_NAME}.pais WHERE idioma LIKE ?`, [`%${req.params.idioma}%`]);
 
     // Procesar los resultados para convertir las cadenas en arrays
     const resultadosProcesados = result.map((pais) => ({
