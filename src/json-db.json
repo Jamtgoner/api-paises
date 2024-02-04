@@ -1,0 +1,2838 @@
+[
+    {
+      "id": 1,
+      "pais": "Afganistán",
+      "capital": " Kabul",
+      "idioma": [
+        "Darí",
+        "Pastún"
+      ],
+      "gentilicio": [
+        "Afgano/Afgana"
+      ],
+      "codigoDivisa": "AFN",
+      "divisa": "afgani afgano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Afganist%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 2,
+      "pais": "Albania",
+      "capital": " Tirana",
+      "idioma": [
+        "Albanés"
+      ],
+      "gentilicio": [
+        "Albanés/Albanesa"
+      ],
+      "codigoDivisa": "ALL",
+      "divisa": "lek albanés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Albania.png?raw=true"
+    },
+    {
+      "id": 3,
+      "pais": "Alemania",
+      "capital": " Berlín",
+      "idioma": [
+        "Alemán"
+      ],
+      "gentilicio": [
+        "Alemán/Alemana"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Alemania.png?raw=true"
+    },
+    {
+      "id": 4,
+      "pais": "Andorra",
+      "capital": " Andorra la Vella",
+      "idioma": [
+        "Catalán"
+      ],
+      "gentilicio": [
+        "Andorrano/Andorrana"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Andorra.png?raw=true"
+    },
+    {
+      "id": 5,
+      "pais": "Angola",
+      "capital": " Luanda",
+      "idioma": [
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Angoleño/Angolena",
+        "Angolano/Angolana"
+      ],
+      "codigoDivisa": "AOA",
+      "divisa": "kwanza angoleño",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Angola.png?raw=true"
+    },
+    {
+      "id": 6,
+      "pais": "Antigua y Barbuda",
+      "capital": " Saint John's",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Antiguano/Antiguana"
+      ],
+      "codigoDivisa": "XCD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Antigua%20y%20Barbuda.png?raw=true"
+    },
+    {
+      "id": 7,
+      "pais": "Arabia Saudita",
+      "capital": " Riad",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Saudí/Saudita"
+      ],
+      "codigoDivisa": "SAR",
+      "divisa": "riyal saudí",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Arabia%20Saudita.png?raw=true"
+    },
+    {
+      "id": 8,
+      "pais": "Argelia",
+      "capital": " Argel",
+      "idioma": [
+        "Árabe",
+        "Bereber"
+      ],
+      "gentilicio": [
+        "Argelino/Argelina"
+      ],
+      "codigoDivisa": "DZD",
+      "divisa": "dinar algerino",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Argelia.png?raw=true"
+    },
+    {
+      "id": 9,
+      "pais": "Argentina",
+      "capital": " Buenos Aires",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Argentino/Argentina"
+      ],
+      "codigoDivisa": "ARS",
+      "divisa": "peso argentino",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Argentina.png?raw=true"
+    },
+    {
+      "id": 10,
+      "pais": "Armenia",
+      "capital": " Ereván",
+      "idioma": [
+        "Armenio"
+      ],
+      "gentilicio": [
+        "Armenio/Armenia"
+      ],
+      "codigoDivisa": "AMD",
+      "divisa": "dram armenio",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Armenia.png?raw=true"
+    },
+    {
+      "id": 11,
+      "pais": "Australia",
+      "capital": " Canberra",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Australiano/Australiana"
+      ],
+      "codigoDivisa": "AUD",
+      "divisa": "dólar australiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Australia.png?raw=true"
+    },
+    {
+      "id": 12,
+      "pais": "Austria",
+      "capital": " Viena",
+      "idioma": [
+        "Alemán",
+        "Croata",
+        "Esloveno"
+      ],
+      "gentilicio": [
+        "Austriaco/Austriaca",
+        "Austríaco/Austríaca"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Austria.png?raw=true"
+    },
+    {
+      "id": 13,
+      "pais": "Azerbaiyán",
+      "capital": " Bakú",
+      "idioma": [
+        "Azerí"
+      ],
+      "gentilicio": [
+        "Azerbaiyano/Azerbaiyana"
+      ],
+      "codigoDivisa": "AZN",
+      "divisa": "manat azerbaiyano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Azerbaiy%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 14,
+      "pais": "Bahamas",
+      "capital": " Nasáu",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Bahameño/Bahameña"
+      ],
+      "codigoDivisa": "BSD",
+      "divisa": "dólar bahameño",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Bahamas.png?raw=true"
+    },
+    {
+      "id": 15,
+      "pais": "Bangladesh",
+      "capital": " Daca",
+      "idioma": [
+        "Bengalí"
+      ],
+      "gentilicio": [
+        "Bangladesí"
+      ],
+      "codigoDivisa": "BDT",
+      "divisa": "taka",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Bangladesh.png?raw=true"
+    },
+    {
+      "id": 16,
+      "pais": "Barbados",
+      "capital": " Bridgetown",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Barbadense"
+      ],
+      "codigoDivisa": "BBD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Barbados.png?raw=true"
+    },
+    {
+      "id": 17,
+      "pais": "Bahréin",
+      "capital": " Manama",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Bareiní"
+      ],
+      "codigoDivisa": "BHD",
+      "divisa": "dinar bahreini",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Bahr%C3%A9in.png?raw=true"
+    },
+    {
+      "id": 18,
+      "pais": "Bélgica",
+      "capital": " Bruselas",
+      "idioma": [
+        "Francés",
+        "Holandés",
+        "Alemán"
+      ],
+      "gentilicio": [
+        "Belga"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/B%C3%A9lgica.png?raw=true"
+    },
+    {
+      "id": 19,
+      "pais": "Belice",
+      "capital": " Belmopán",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Beliceño/Beliceña"
+      ],
+      "codigoDivisa": "BZD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Belice.png?raw=true"
+    },
+    {
+      "id": 20,
+      "pais": "Benín",
+      "capital": " Porto Novo",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Beninés/Beninesa"
+      ],
+      "codigoDivisa": "XOF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Ben%C3%ADn.png?raw=true"
+    },
+    {
+      "id": 21,
+      "pais": "Bielorrusia",
+      "capital": " Minsk",
+      "idioma": [
+        "Bielorruso",
+        "Ruso"
+      ],
+      "gentilicio": [
+        "Bielorruso/Bielorrusa"
+      ],
+      "codigoDivisa": "BYN",
+      "divisa": "rublo bielorruso",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Bielorrusia.png?raw=true"
+    },
+    {
+      "id": 22,
+      "pais": "Birmania",
+      "capital": " Naipyidó",
+      "idioma": [
+        "Birmano"
+      ],
+      "gentilicio": [
+        "Birmano/Birmana"
+      ],
+      "codigoDivisa": "MMK",
+      "divisa": "kyat birmano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Birmania.png?raw=true"
+    },
+    {
+      "id": 23,
+      "pais": "Bolivia",
+      "capital": " Sucre",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Boliviano/Boliviana"
+      ],
+      "codigoDivisa": "BOB",
+      "divisa": "boliviano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Bolivia.png?raw=true"
+    },
+    {
+      "id": 24,
+      "pais": "Bosnia y Herzegovina",
+      "capital": " Sarajevo",
+      "idioma": [
+        "Bosnio",
+        "Croata",
+        "Serbio"
+      ],
+      "gentilicio": [
+        "Bosnio/Bosnia",
+        "Bosnioherzegovino/Bosnioherzegovina"
+      ],
+      "codigoDivisa": "BAM",
+      "divisa": "marco convertible",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Bosnia%20y%20Herzegovina.png?raw=true"
+    },
+    {
+      "id": 25,
+      "pais": "Botsuana",
+      "capital": " Gaborone",
+      "idioma": [
+        "Inglés",
+        "Setsuana"
+      ],
+      "gentilicio": [
+        "Botsuano/Botsuana"
+      ],
+      "codigoDivisa": "BWP",
+      "divisa": "pula",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Botsuana.png?raw=true"
+    },
+    {
+      "id": 26,
+      "pais": "Brasil",
+      "capital": " Brasilia",
+      "idioma": [
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Brasileño/Brasileña",
+        "Brasilero/Brasilera"
+      ],
+      "codigoDivisa": "BRL",
+      "divisa": "real brasileño",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Brasil.png?raw=true"
+    },
+    {
+      "id": 27,
+      "pais": "Brunéi",
+      "capital": " Bandar Seri Begawan",
+      "idioma": [
+        "Dzongkha"
+      ],
+      "gentilicio": [
+        "Bruneano/Bruneana"
+      ],
+      "codigoDivisa": "BND",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Brun%C3%A9i.png?raw=true"
+    },
+    {
+      "id": 28,
+      "pais": "Bulgaria",
+      "capital": " Sofía",
+      "idioma": [
+        "Búlgaro"
+      ],
+      "gentilicio": [
+        "Búlgaro/Búlgara"
+      ],
+      "codigoDivisa": "BGN",
+      "divisa": "lev búlgaro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Bulgaria.png?raw=true"
+    },
+    {
+      "id": 29,
+      "pais": "Burkina Faso",
+      "capital": " Uagadugú",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Burkinés"
+      ],
+      "codigoDivisa": "XOF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Burkina%20Faso.png?raw=true"
+    },
+    {
+      "id": 30,
+      "pais": "Burundi",
+      "capital": " Buyumbura",
+      "idioma": [
+        "Kirundi",
+        "Francés",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Burundés/Burundesa"
+      ],
+      "codigoDivisa": "BIF",
+      "divisa": "franco burundés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Burundi.png?raw=true"
+    },
+    {
+      "id": 31,
+      "pais": "Bután",
+      "capital": " Timbu",
+      "idioma": [
+        "Dzongkha"
+      ],
+      "gentilicio": [
+        "Butanés/Butanesa"
+      ],
+      "codigoDivisa": "BTN",
+      "divisa": "ngultrum",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/But%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 32,
+      "pais": "Cabo Verde",
+      "capital": " Praia",
+      "idioma": [
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Caboverdiano/Caboverdiana"
+      ],
+      "codigoDivisa": "CVE",
+      "divisa": "escudo caboverdiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Cabo%20Verde.png?raw=true"
+    },
+    {
+      "id": 33,
+      "pais": "Camboya",
+      "capital": " Nom Pen",
+      "idioma": [
+        "Camboyano"
+      ],
+      "gentilicio": [
+        "Camboyano/Camboyana"
+      ],
+      "codigoDivisa": "KHR",
+      "divisa": "riel camboyano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Camboya.png?raw=true"
+    },
+    {
+      "id": 34,
+      "pais": "Camerún",
+      "capital": " Yaundé",
+      "idioma": [
+        "Inglés",
+        "Francés"
+      ],
+      "gentilicio": [
+        "Camerunés/Camerunesa"
+      ],
+      "codigoDivisa": "XAF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Camer%C3%BAn.png?raw=true"
+    },
+    {
+      "id": 35,
+      "pais": "Canadá",
+      "capital": " Ottawa",
+      "idioma": [
+        "Inglés",
+        "Francés"
+      ],
+      "gentilicio": [
+        "Canadiense"
+      ],
+      "codigoDivisa": "CAD",
+      "divisa": "dólar canadiense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Canad%C3%A1.png?raw=true"
+    },
+    {
+      "id": 36,
+      "pais": "Catar",
+      "capital": " Doha",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Catarí"
+      ],
+      "codigoDivisa": "QAR",
+      "divisa": "rial qatarí",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Catar.png?raw=true"
+    },
+    {
+      "id": 37,
+      "pais": "Chad",
+      "capital": " Yamena",
+      "idioma": [
+        "Árabe",
+        "Francés"
+      ],
+      "gentilicio": [
+        "Chadiano/Chadiana"
+      ],
+      "codigoDivisa": "XAF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Chad.png?raw=true"
+    },
+    {
+      "id": 38,
+      "pais": "Chile",
+      "capital": " Santiago",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Chileno/Chilena"
+      ],
+      "codigoDivisa": "CLP",
+      "divisa": "peso chileno",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Chile.png?raw=true"
+    },
+    {
+      "id": 39,
+      "pais": "China",
+      "capital": " Pekín",
+      "idioma": [
+        "Mandarín"
+      ],
+      "gentilicio": [
+        "Chino/China"
+      ],
+      "codigoDivisa": "CNY",
+      "divisa": "RMB yuan renminbi chino",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/China.png?raw=true"
+    },
+    {
+      "id": 40,
+      "pais": "Chipre",
+      "capital": " Nicosia",
+      "idioma": [
+        "Griego Moderno",
+        "Turco"
+      ],
+      "gentilicio": [
+        "Chipriota"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Chipre.png?raw=true"
+    },
+    {
+      "id": 41,
+      "pais": "Vaticano",
+      "capital": " Ciudad del Vaticano",
+      "idioma": [
+        "Latín",
+        "Italian"
+      ],
+      "gentilicio": [
+        "Vaticano/Vaticana"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Vaticano.png?raw=true"
+    },
+    {
+      "id": 42,
+      "pais": "Colombia",
+      "capital": " Bogotá",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Colombiano/Colombiana"
+      ],
+      "codigoDivisa": "COP",
+      "divisa": "peso colombiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Colombia.png?raw=true"
+    },
+    {
+      "id": 43,
+      "pais": "Comoras",
+      "capital": " Moroni",
+      "idioma": [
+        "Árabe",
+        "Francés",
+        "Comorense"
+      ],
+      "gentilicio": [
+        "Comorense"
+      ],
+      "codigoDivisa": "KMF",
+      "divisa": "franco comoriano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Comoras.png?raw=true"
+    },
+    {
+      "id": 44,
+      "pais": "Corea del Norte",
+      "capital": " Pionyang",
+      "idioma": [
+        "Coreano"
+      ],
+      "gentilicio": [
+        "Norcoreano/Norcoreana"
+      ],
+      "codigoDivisa": "KPW",
+      "divisa": "won norcoreano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Corea%20del%20Norte.png?raw=true"
+    },
+    {
+      "id": 45,
+      "pais": "Corea del Sur",
+      "capital": " Seúl",
+      "idioma": [
+        "Coreano",
+        "Lenguaje De Signos Coreano"
+      ],
+      "gentilicio": [
+        "Surcoreano/Surcoreana"
+      ],
+      "codigoDivisa": "KRW",
+      "divisa": "won surcoreano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Corea%20del%20Sur.png?raw=true"
+    },
+    {
+      "id": 46,
+      "pais": "Costa de Marfil",
+      "capital": " Yamusukro",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Marfileño/Marfileña"
+      ],
+      "codigoDivisa": "XOF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Costa%20de%20Marfil.png?raw=true"
+    },
+    {
+      "id": 47,
+      "pais": "Costa Rica",
+      "capital": " San José",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Costarricense"
+      ],
+      "codigoDivisa": "CRC",
+      "divisa": "colón costarricense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Costa%20Rica.png?raw=true"
+    },
+    {
+      "id": 48,
+      "pais": "Croacia",
+      "capital": " Zagreb",
+      "idioma": [
+        "Croata"
+      ],
+      "gentilicio": [
+        "Croata"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Croacia.png?raw=true"
+    },
+    {
+      "id": 49,
+      "pais": "Cuba",
+      "capital": " La Habana",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Cubano/Cubana"
+      ],
+      "codigoDivisa": "CUC",
+      "divisa": "peso cubano convertible (->CUP)",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Cuba.png?raw=true"
+    },
+    {
+      "id": 50,
+      "pais": "Dinamarca",
+      "capital": " Copenhague",
+      "idioma": [
+        "Danés"
+      ],
+      "gentilicio": [
+        "Danés/Danesa"
+      ],
+      "codigoDivisa": "DKK",
+      "divisa": "corona danesa",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Dinamarca.png?raw=true"
+    },
+    {
+      "id": 51,
+      "pais": "Dominica",
+      "capital": " Roseau",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Dominiqués"
+      ],
+      "codigoDivisa": "XCD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Dominica.png?raw=true"
+    },
+    {
+      "id": 52,
+      "pais": "Ecuador",
+      "capital": " Quito",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Ecuatoriano/Ecuatoriana"
+      ],
+      "codigoDivisa": "USD",
+      "divisa": "dólar estadounidense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Ecuador.png?raw=true"
+    },
+    {
+      "id": 53,
+      "pais": "Egipto",
+      "capital": " El Cairo",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Egipcio/Egipcia"
+      ],
+      "codigoDivisa": "EGP",
+      "divisa": "libra egipcia",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Egipto.png?raw=true"
+    },
+    {
+      "id": 54,
+      "pais": "El Salvador",
+      "capital": " San Salvador",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Salvadoreño/Salvadoreña"
+      ],
+      "codigoDivisa": "USD",
+      "divisa": "dólar estadounidense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/El%20Salvador.png?raw=true"
+    },
+    {
+      "id": 55,
+      "pais": "Emiratos Árabes Unidos",
+      "capital": " Abú Dabi",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Emiratí"
+      ],
+      "codigoDivisa": "AED",
+      "divisa": "dirham",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Emiratos%20Árabes%20Unidos.png?raw=true"
+    },
+    {
+      "id": 56,
+      "pais": "Eritrea",
+      "capital": " Asmara",
+      "idioma": [
+        "Árabe",
+        "Inglés",
+        "Tigriña"
+      ],
+      "gentilicio": [
+        "Eritreo/Eritrea"
+      ],
+      "codigoDivisa": "ERN",
+      "divisa": "nafka eritreo",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Eritrea.png?raw=true"
+    },
+    {
+      "id": 57,
+      "pais": "Eslovaquia",
+      "capital": " Bratislava",
+      "idioma": [
+        "Eslovaco"
+      ],
+      "gentilicio": [
+        "Eslovaco/Eslovaca"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Eslovaquia.png?raw=true"
+    },
+    {
+      "id": 58,
+      "pais": "Eslovenia",
+      "capital": " Liubliana",
+      "idioma": [
+        "Esloveno",
+        "Húngaro",
+        "Italiano"
+      ],
+      "gentilicio": [
+        "Esloveno/Eslovena"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Eslovenia.png?raw=true"
+    },
+    {
+      "id": 59,
+      "pais": "España",
+      "capital": " Madrid",
+      "idioma": [
+        "Español",
+        "Catalán",
+        "Gallego",
+        "Euskera"
+      ],
+      "gentilicio": [
+        "Español/Española"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/España.png?raw=true"
+    },
+    {
+      "id": 60,
+      "pais": "Estados Unidos",
+      "capital": " Washington D.C.",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Estadounidense"
+      ],
+      "codigoDivisa": "USD",
+      "divisa": "dólar estadounidense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Estados%20Unidos.png?raw=true"
+    },
+    {
+      "id": 61,
+      "pais": "Estonia",
+      "capital": " Tallin",
+      "idioma": [
+        "Estonio"
+      ],
+      "gentilicio": [
+        "Estonio/Estona"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Estonia.png?raw=true"
+    },
+    {
+      "id": 62,
+      "pais": "Etiopía",
+      "capital": " Adís Abeba",
+      "idioma": [
+        "Amhárico"
+      ],
+      "gentilicio": [
+        "Etíope"
+      ],
+      "codigoDivisa": "ETB",
+      "divisa": "birr etiope",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Etiop%C3%ADa.png?raw=true"
+    },
+    {
+      "id": 63,
+      "pais": "Filipinas",
+      "capital": " Manila",
+      "idioma": [
+        "Filipino",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Filipino/Filipina"
+      ],
+      "codigoDivisa": "PHP",
+      "divisa": "peso filipino",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Filipinas.png?raw=true"
+    },
+    {
+      "id": 64,
+      "pais": "Finlandia",
+      "capital": " Helsinki",
+      "idioma": [
+        "Finlandés",
+        "Sueco"
+      ],
+      "gentilicio": [
+        "Finlandés/Finlandesa"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Finlandia.png?raw=true"
+    },
+    {
+      "id": 65,
+      "pais": "Fiyi",
+      "capital": " Suva",
+      "idioma": [
+        "Inglés",
+        "Fiyiano"
+      ],
+      "gentilicio": [
+        "Fiyiano/Fiyiana"
+      ],
+      "codigoDivisa": "FJD",
+      "divisa": "dólar fijiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Fiyi.png?raw=true"
+    },
+    {
+      "id": 66,
+      "pais": "Francia",
+      "capital": " París",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Francés/Francesa"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Francia.png?raw=true"
+    },
+    {
+      "id": 67,
+      "pais": "Gabón",
+      "capital": " Libreville",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Gabonés/Gabonesa"
+      ],
+      "codigoDivisa": "XAF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Gab%C3%B3n.png?raw=true"
+    },
+    {
+      "id": 68,
+      "pais": "Gambia",
+      "capital": " Banjul",
+      "idioma": [
+        "Árabe",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Gambiano/Gambiana"
+      ],
+      "codigoDivisa": "GMD",
+      "divisa": "dalasi gambiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Gambia.png?raw=true"
+    },
+    {
+      "id": 69,
+      "pais": "Georgia",
+      "capital": " Tiflis",
+      "idioma": [
+        "Georgiano"
+      ],
+      "gentilicio": [
+        "Georgiano/Georgiana"
+      ],
+      "codigoDivisa": "GEL",
+      "divisa": "lari georgiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Georgia.png?raw=true"
+    },
+    {
+      "id": 70,
+      "pais": "Ghana",
+      "capital": " Acra",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Ghanés/Ghanesa"
+      ],
+      "codigoDivisa": "GHS",
+      "divisa": "cedi ghanés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Ghana.png?raw=true"
+    },
+    {
+      "id": 71,
+      "pais": "Granada",
+      "capital": " Saint George's",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Granadino/Granadina"
+      ],
+      "codigoDivisa": "XCD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Granada.png?raw=true"
+    },
+    {
+      "id": 72,
+      "pais": "Grecia",
+      "capital": " Atenas",
+      "idioma": [
+        "Griego Moderno"
+      ],
+      "gentilicio": [
+        "Griego/Griega"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Grecia.png?raw=true"
+    },
+    {
+      "id": 73,
+      "pais": "Guatemala",
+      "capital": " Ciudad de Guatemala",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Guatemalteco/Guatemalteca"
+      ],
+      "codigoDivisa": "GTQ",
+      "divisa": "quetzal guatemalteco",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Guatemala.png?raw=true"
+    },
+    {
+      "id": 74,
+      "pais": "Guinea ecuatorial",
+      "capital": " Malabo",
+      "idioma": [
+        "Español",
+        "Francés",
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Ecuatoguineano/Ecuatoguineana"
+      ],
+      "codigoDivisa": "XAF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Guinea%20ecuatorial.png?raw=true"
+    },
+    {
+      "id": 75,
+      "pais": "Guinea",
+      "capital": " Conakry",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Guineano/Guineana"
+      ],
+      "codigoDivisa": "GNF",
+      "divisa": "franco guineano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Guinea.png?raw=true"
+    },
+    {
+      "id": 76,
+      "pais": "Guinea-Bisáu",
+      "capital": " Bissau",
+      "idioma": [
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Guineano/Guineana"
+      ],
+      "codigoDivisa": "XOF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Guinea-Bis%C3%A1u.png?raw=true"
+    },
+    {
+      "id": 77,
+      "pais": "Guyana",
+      "capital": " Georgetown",
+      "idioma": [
+        "Ingles"
+      ],
+      "gentilicio": [
+        "Guyanés/Guyanesa"
+      ],
+      "codigoDivisa": "GYD",
+      "divisa": "dólar guyanés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Guyana.png?raw=true"
+    },
+    {
+      "id": 78,
+      "pais": "Haití",
+      "capital": " Puerto Príncipe",
+      "idioma": [
+        "Haitiano",
+        "Francés"
+      ],
+      "gentilicio": [
+        "Haitiano/Haitiana"
+      ],
+      "codigoDivisa": "HTG",
+      "divisa": "gourde haitiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Hait%C3%AD.png?raw=true"
+    },
+    {
+      "id": 79,
+      "pais": "Honduras",
+      "capital": " Tegucigalpa",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Hondureño/Hondureña"
+      ],
+      "codigoDivisa": "HNL",
+      "divisa": "lempira hondureño",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Honduras.png?raw=true"
+    },
+    {
+      "id": 80,
+      "pais": "Hungría",
+      "capital": " Budapest",
+      "idioma": [
+        "Húngaro"
+      ],
+      "gentilicio": [
+        "Húngaro/Húngara"
+      ],
+      "codigoDivisa": "HUF",
+      "divisa": "forint húngaro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Hungr%C3%ADa.png?raw=true"
+    },
+    {
+      "id": 81,
+      "pais": "India",
+      "capital": " Nueva Delhi",
+      "idioma": [
+        "Hindi",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Indio/India"
+      ],
+      "codigoDivisa": "INR",
+      "divisa": "rupia india",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/India.png?raw=true"
+    },
+    {
+      "id": 82,
+      "pais": "Indonesia",
+      "capital": " Yakarta",
+      "idioma": [
+        "Indonesio"
+      ],
+      "gentilicio": [
+        "Indonesio/Indonesia"
+      ],
+      "codigoDivisa": "IDR",
+      "divisa": "rupiah indonesia",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Indonesia.png?raw=true"
+    },
+    {
+      "id": 83,
+      "pais": "Irak",
+      "capital": " Bagdad",
+      "idioma": [
+        "Árabe",
+        "Kurdo"
+      ],
+      "gentilicio": [
+        "Iraquí"
+      ],
+      "codigoDivisa": "IQD",
+      "divisa": "dinar iraquí",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Irak.png?raw=true"
+    },
+    {
+      "id": 84,
+      "pais": "Irán",
+      "capital": " Teherán",
+      "idioma": [
+        "Persa"
+      ],
+      "gentilicio": [
+        "Iraní"
+      ],
+      "codigoDivisa": "IRR",
+      "divisa": "rial iraní",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Ir%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 85,
+      "pais": "Irlanda",
+      "capital": " Dublín",
+      "idioma": [
+        "Inglés",
+        "Irlandé"
+      ],
+      "gentilicio": [
+        "Irlandés/Irlandesa"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Irlanda.png?raw=true"
+    },
+    {
+      "id": 86,
+      "pais": "Islandia",
+      "capital": " Reikiavik",
+      "idioma": [
+        "Islandés"
+      ],
+      "gentilicio": [
+        "Islandés/Islandesa"
+      ],
+      "codigoDivisa": "ISK",
+      "divisa": "Króna islandesa",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Islandia.png?raw=true"
+    },
+    {
+      "id": 87,
+      "pais": "Islas Marshall",
+      "capital": " Majuro",
+      "idioma": [
+        "Marshalés",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Marshalés/Marshalina"
+      ],
+      "codigoDivisa": "USD",
+      "divisa": "dólar estadounidense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Islas%20Marshall.png?raw=true"
+    },
+    {
+      "id": 88,
+      "pais": "Islas Salomón",
+      "capital": " Honiara",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Salomonense"
+      ],
+      "codigoDivisa": "SBD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Islas%20Salom%C3%B3n.png?raw=true"
+    },
+    {
+      "id": 89,
+      "pais": "Israel",
+      "capital": " Jerusalén",
+      "idioma": [
+        "Hebreo"
+      ],
+      "gentilicio": [
+        "Israelí"
+      ],
+      "codigoDivisa": "ILS",
+      "divisa": "nuevo shékel israeli",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Israel.png?raw=true"
+    },
+    {
+      "id": 90,
+      "pais": "Italia",
+      "capital": " Roma",
+      "idioma": [
+        "Italiano",
+        "Francés",
+        "Ladino",
+        "Alemán",
+        "Sardo",
+        "Esloveno"
+      ],
+      "gentilicio": [
+        "Italiano/Italiana"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Italia.png?raw=true"
+    },
+    {
+      "id": 91,
+      "pais": "Jamaica",
+      "capital": " Kingston",
+      "idioma": [
+        "Inglés",
+        "Jamaicano"
+      ],
+      "gentilicio": [
+        "Jamaicano/Jamaicana o Jamaiquino/Jamaiquina"
+      ],
+      "codigoDivisa": "JMD",
+      "divisa": "dólar jamaicano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Jamaica.png?raw=true"
+    },
+    {
+      "id": 92,
+      "pais": "Japón",
+      "capital": " Tokio",
+      "idioma": [
+        "Japonés"
+      ],
+      "gentilicio": [
+        "Japonés/Japonesa"
+      ],
+      "codigoDivisa": "JPY",
+      "divisa": "yen japonés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Jap%C3%B3n.png?raw=true"
+    },
+    {
+      "id": 93,
+      "pais": "Jordania",
+      "capital": " Amán",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Jordano/Jordana"
+      ],
+      "codigoDivisa": "JOD",
+      "divisa": "dinar jordano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Jordania.png?raw=true"
+    },
+    {
+      "id": 94,
+      "pais": "Kazajistán",
+      "capital": " Nursultán",
+      "idioma": [
+        "Kazajo",
+        "Ruso"
+      ],
+      "gentilicio": [
+        "Kazajo/Kazaja"
+      ],
+      "codigoDivisa": "KZT",
+      "divisa": "tenge kazajo",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Kazajist%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 95,
+      "pais": "Kenia",
+      "capital": " Nairobi",
+      "idioma": [
+        "Suajili",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Keniano/Kenia",
+        "Keniata"
+      ],
+      "codigoDivisa": "KES",
+      "divisa": "chelín keniata",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Kenia.png?raw=true"
+    },
+    {
+      "id": 96,
+      "pais": "Kirguistán",
+      "capital": " Biskek",
+      "idioma": [
+        "Kirguís",
+        "Ruso"
+      ],
+      "gentilicio": [
+        "Kirguís/Kirguisa",
+        "Kirguiso/Kirguisa"
+      ],
+      "codigoDivisa": "KGS",
+      "divisa": "som kirguís",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Kirguist%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 97,
+      "pais": "Kiribati",
+      "capital": " Tarawa",
+      "idioma": [
+        "Inglés",
+        "Gilbertés"
+      ],
+      "gentilicio": [
+        "Kiribatiano/Kiribatiana"
+      ],
+      "codigoDivisa": "AUD",
+      "divisa": "dólar australiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Kiribati.png?raw=true"
+    },
+    {
+      "id": 98,
+      "pais": "Kuwait",
+      "capital": " Kuwait",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Kuwaití"
+      ],
+      "codigoDivisa": "KWD",
+      "divisa": "dinar kuwaití",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Kuwait.png?raw=true"
+    },
+    {
+      "id": 99,
+      "pais": "Laos",
+      "capital": " Vientián",
+      "idioma": [
+        "Laosiano"
+      ],
+      "gentilicio": [
+        "Laosiano/Laosiana"
+      ],
+      "codigoDivisa": "LAK",
+      "divisa": "kip lao",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Laos.png?raw=true"
+    },
+    {
+      "id": 100,
+      "pais": "Lesoto",
+      "capital": " Maseru",
+      "idioma": [
+        "Sesoto",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Lesotense"
+      ],
+      "codigoDivisa": "LSL",
+      "divisa": "loti lesotense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Lesoto.png?raw=true"
+    },
+    {
+      "id": 101,
+      "pais": "Letonia",
+      "capital": " Riga",
+      "idioma": [
+        "Letón"
+      ],
+      "gentilicio": [
+        "Letón/Leta"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Letonia.png?raw=true"
+    },
+    {
+      "id": 102,
+      "pais": "Líbano",
+      "capital": " Beirut",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Libanés/Libanesa"
+      ],
+      "codigoDivisa": "LBP",
+      "divisa": "libra libanesa",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/L%C3%ADbano.png?raw=true"
+    },
+    {
+      "id": 103,
+      "pais": "Liberia",
+      "capital": " Monrovia",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Liberiano/Liberiana"
+      ],
+      "codigoDivisa": "LRD",
+      "divisa": "dólar liberiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Liberia.png?raw=true"
+    },
+    {
+      "id": 104,
+      "pais": "Libia",
+      "capital": " Trípoli",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Libio/Libia"
+      ],
+      "codigoDivisa": "LYD",
+      "divisa": "dinar libio",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Libia.png?raw=true"
+    },
+    {
+      "id": 105,
+      "pais": "Liechtenstein",
+      "capital": " Vaduz",
+      "idioma": [
+        "Alemán"
+      ],
+      "gentilicio": [
+        "Liechtensteiniano/Liechtensteiniana"
+      ],
+      "codigoDivisa": "CHF",
+      "divisa": "franco suizo",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Liechtenstein.png?raw=true"
+    },
+    {
+      "id": 106,
+      "pais": "Lituania",
+      "capital": " Vilna",
+      "idioma": [
+        "Lituano"
+      ],
+      "gentilicio": [
+        "Lituano/Lituana"
+      ],
+      "codigoDivisa": "LTL",
+      "divisa": "litas lituano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Lituania.png?raw=true"
+    },
+    {
+      "id": 107,
+      "pais": "Luxemburgo",
+      "capital": " Luxemburgo",
+      "idioma": [
+        "Luxemburgués",
+        "Francés",
+        "Alemán"
+      ],
+      "gentilicio": [
+        "Luxemburgués/Luxemburguesa"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Luxemburgo.png?raw=true"
+    },
+    {
+      "id": 108,
+      "pais": "Madagascar",
+      "capital": " Antananarivo",
+      "idioma": [
+        "Malgache",
+        "Francés"
+      ],
+      "gentilicio": [
+        "Malgache"
+      ],
+      "codigoDivisa": "MGA",
+      "divisa": "ariary malgache",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Madagascar.png?raw=true"
+    },
+    {
+      "id": 109,
+      "pais": "Malasia",
+      "capital": " Kuala Lumpur",
+      "idioma": [
+        "Malayo"
+      ],
+      "gentilicio": [
+        "Malasio/Malasia"
+      ],
+      "codigoDivisa": "MYR",
+      "divisa": "ringgit malayo",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Malasia.png?raw=true"
+    },
+    {
+      "id": 110,
+      "pais": "Malaui",
+      "capital": " Lilongüe",
+      "idioma": [
+        "Inglés",
+        "Chichewa"
+      ],
+      "gentilicio": [
+        "Malauí"
+      ],
+      "codigoDivisa": "MWK",
+      "divisa": "kwacha malauí",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Malaui.png?raw=true"
+    },
+    {
+      "id": 111,
+      "pais": "Maldivas",
+      "capital": " Malé",
+      "idioma": [
+        "Maldivo"
+      ],
+      "gentilicio": [
+        "Maldivo/Maldiva"
+      ],
+      "codigoDivisa": "MVR",
+      "divisa": "rufiyaa maldiva",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Maldivas.png?raw=true"
+    },
+    {
+      "id": 112,
+      "pais": "Malí",
+      "capital": " Bamako",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Maliense",
+        "Malí"
+      ],
+      "codigoDivisa": "XOF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Mal%C3%AD.png?raw=true"
+    },
+    {
+      "id": 113,
+      "pais": "Malta",
+      "capital": " La Valeta",
+      "idioma": [
+        "Maltés",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Maltés/Maltesa"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Malta.png?raw=true"
+    },
+    {
+      "id": 114,
+      "pais": "Marruecos",
+      "capital": " Rabat",
+      "idioma": [
+        "Árabe",
+        "Tamazight"
+      ],
+      "gentilicio": [
+        "Marroquí"
+      ],
+      "codigoDivisa": "MAD",
+      "divisa": "dirham marroquí",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Marruecos.png?raw=true"
+    },
+    {
+      "id": 115,
+      "pais": "Mauricio",
+      "capital": " Puerto Luis",
+      "idioma": [
+        "Inglés",
+        "Francés"
+      ],
+      "gentilicio": [
+        "Mauriciano/Mauriciana"
+      ],
+      "codigoDivisa": "MUR",
+      "divisa": "rupia mauricia",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Mauricio.png?raw=true"
+    },
+    {
+      "id": 116,
+      "pais": "Mauritania",
+      "capital": " Nuakchot",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Mauritano/Mauritana"
+      ],
+      "codigoDivisa": "MRU",
+      "divisa": "ouguiya mauritana",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Mauritania.png?raw=true"
+    },
+    {
+      "id": 117,
+      "pais": "México",
+      "capital": " Ciudad de México",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Mexicano/Mexicana"
+      ],
+      "codigoDivisa": "MXN",
+      "divisa": "peso mexicano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/M%C3%A9xico.png?raw=true"
+    },
+    {
+      "id": 118,
+      "pais": "Micronesia",
+      "capital": " Palikir",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Micronesio/Micronesia"
+      ],
+      "codigoDivisa": "USD",
+      "divisa": "dólar estadounidense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Micronesia.png?raw=true"
+    },
+    {
+      "id": 119,
+      "pais": "Moldavia",
+      "capital": " Chisináu",
+      "idioma": [
+        "Rumano",
+        "Gagaúzo",
+        "Ruso",
+        "Ucraniano"
+      ],
+      "gentilicio": [
+        "Moldavo/Moldava"
+      ],
+      "codigoDivisa": "MDL",
+      "divisa": "leu moldavo",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Moldavia.png?raw=true"
+    },
+    {
+      "id": 120,
+      "pais": "Mónaco",
+      "capital": " Mónaco",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Monegasco/Monegasca"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/M%C3%B3naco.png?raw=true"
+    },
+    {
+      "id": 121,
+      "pais": "Mongolia",
+      "capital": " Ulán Bator",
+      "idioma": [
+        "Mongol"
+      ],
+      "gentilicio": [
+        "Mongol/Mongola"
+      ],
+      "codigoDivisa": "MNT",
+      "divisa": "tughrik mongol",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Mongolia.png?raw=true"
+    },
+    {
+      "id": 122,
+      "pais": "Montenegro",
+      "capital": " Podgorica",
+      "idioma": [
+        "Montenegrino"
+      ],
+      "gentilicio": [
+        "Montenegrino/Montenegrina"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Montenegro.png?raw=true"
+    },
+    {
+      "id": 123,
+      "pais": "Mozambique",
+      "capital": " Maputo",
+      "idioma": [
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Mozambiqueño/Mozambiqueña"
+      ],
+      "codigoDivisa": "MZN",
+      "divisa": "metical mozambiqueño",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Mozambique.png?raw=true"
+    },
+    {
+      "id": 124,
+      "pais": "Namibia",
+      "capital": " Windhoek",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Namibio/Namibia"
+      ],
+      "codigoDivisa": "NAD",
+      "divisa": "dólar namibio",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Namibia.png?raw=true"
+    },
+    {
+      "id": 125,
+      "pais": "Nauru",
+      "capital": " Yaren",
+      "idioma": [
+        "Inglés",
+        "Nauruano"
+      ],
+      "gentilicio": [
+        "Nauruano/Nauruana"
+      ],
+      "codigoDivisa": "AUD",
+      "divisa": "dólar australiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Nauru.png?raw=true"
+    },
+    {
+      "id": 126,
+      "pais": "Nepal",
+      "capital": " Katmandú",
+      "idioma": [
+        "Nepalí"
+      ],
+      "gentilicio": [
+        "Nepalés/Nepalesa",
+        "Nepalí"
+      ],
+      "codigoDivisa": "NPR",
+      "divisa": "rupia nepalesa",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Nepal.png?raw=true"
+    },
+    {
+      "id": 127,
+      "pais": "Nicaragua",
+      "capital": " Managua",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Nicaragüense"
+      ],
+      "codigoDivisa": "NIO",
+      "divisa": "córdoba nicaragüense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Nicaragua.png?raw=true"
+    },
+    {
+      "id": 128,
+      "pais": "Níger",
+      "capital": " Niamey",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Nigerino/Nigerina"
+      ],
+      "codigoDivisa": "XOF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/N%C3%ADger.png?raw=true"
+    },
+    {
+      "id": 129,
+      "pais": "Nigeria",
+      "capital": " Abuya",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Nigeriano/Nigeriana"
+      ],
+      "codigoDivisa": "NGN",
+      "divisa": "naira nigeriana",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Nigeria.png?raw=true"
+    },
+    {
+      "id": 130,
+      "pais": "Noruega",
+      "capital": " Oslo",
+      "idioma": [
+        "Noruego"
+      ],
+      "gentilicio": [
+        "Noruego/Noruega"
+      ],
+      "codigoDivisa": "NOK",
+      "divisa": "corona noruega",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Noruega.png?raw=true"
+    },
+    {
+      "id": 131,
+      "pais": "Nueva Zelanda",
+      "capital": " Wellington",
+      "idioma": [
+        "Inglés",
+        "Maorí",
+        "Lengua De Signos Neozelandesa"
+      ],
+      "gentilicio": [
+        "Neozelandés/Neozelandesa"
+      ],
+      "codigoDivisa": "NZD",
+      "divisa": "dólar neozelandés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Nueva%20Zelanda.png?raw=true"
+    },
+    {
+      "id": 132,
+      "pais": "Omán",
+      "capital": " Mascate",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Omaní"
+      ],
+      "codigoDivisa": "OMR",
+      "divisa": "rial omaní",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Om%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 133,
+      "pais": "Países Bajos",
+      "capital": " Ámsterdam",
+      "idioma": [
+        "Holandés",
+        "Frisón"
+      ],
+      "gentilicio": [
+        "Neerlandés/Neerlandesa"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Pa%C3%ADses%20Bajos.png?raw=true"
+    },
+    {
+      "id": 134,
+      "pais": "Pakistán",
+      "capital": " Islamabad",
+      "idioma": [
+        "Urdu",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Pakistaní"
+      ],
+      "codigoDivisa": "PKR",
+      "divisa": "rupia pakistaní",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Pakist%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 135,
+      "pais": "Palaos",
+      "capital": " Melekeok",
+      "idioma": [
+        "Inglés",
+        "Palauano",
+        "Japonés"
+      ],
+      "gentilicio": [
+        "Palauano/Palauana"
+      ],
+      "codigoDivisa": "USD",
+      "divisa": "dólar estadounidense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Palaos.png?raw=true"
+    },
+    {
+      "id": 136,
+      "pais": "Palestina",
+      "capital": " Jerusalén Oriental",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Palestino/Palestina"
+      ],
+      "codigoDivisa": "ILS",
+      "divisa": "nuevo shékel israeli",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Palestina.png?raw=true"
+    },
+    {
+      "id": 137,
+      "pais": "Panamá",
+      "capital": " Ciudad de Panamá",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Panameño/Panameña"
+      ],
+      "codigoDivisa": "PAB",
+      "divisa": "balboa panameña",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Panam%C3%A1.png?raw=true"
+    },
+    {
+      "id": 138,
+      "pais": "Papúa Nueva Guinea",
+      "capital": " Puerto Moresby",
+      "idioma": [
+        "Inglés",
+        "Tok Pisin",
+        "Hiri Motu"
+      ],
+      "gentilicio": [
+        "Papú"
+      ],
+      "codigoDivisa": "PGK",
+      "divisa": "kina",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Pap%C3%BAa%20Nueva%20Guinea.png?raw=true"
+    },
+    {
+      "id": 139,
+      "pais": "Paraguay",
+      "capital": " Asunción",
+      "idioma": [
+        "Español",
+        "Guaraní"
+      ],
+      "gentilicio": [
+        "Paraguayo/Paraguaya"
+      ],
+      "codigoDivisa": "PYG",
+      "divisa": "guaraní",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Paraguay.png?raw=true"
+    },
+    {
+      "id": 140,
+      "pais": "Perú",
+      "capital": " Lima",
+      "idioma": [
+        "Español",
+        "Quechua",
+        "Aymara"
+      ],
+      "gentilicio": [
+        "Peruano/Peruana"
+      ],
+      "codigoDivisa": "PEN",
+      "divisa": "nuevo sol peruano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Per%C3%BA.png?raw=true"
+    },
+    {
+      "id": 141,
+      "pais": "Polonia",
+      "capital": " Varsovia",
+      "idioma": [
+        "Polaco"
+      ],
+      "gentilicio": [
+        "Polaco/Polaca"
+      ],
+      "codigoDivisa": "PLN",
+      "divisa": "z?oty polaco",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Polonia.png?raw=true"
+    },
+    {
+      "id": 142,
+      "pais": "Portugal",
+      "capital": " Lisboa",
+      "idioma": [
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Portugués/Portuguesa"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Portugal.png?raw=true"
+    },
+    {
+      "id": 143,
+      "pais": "Reino Unido",
+      "capital": " Londres",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Británico/Británica"
+      ],
+      "codigoDivisa": "GBP",
+      "divisa": "libra esterlina",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Reino%20Unido.png?raw=true"
+    },
+    {
+      "id": 144,
+      "pais": "República Centroafricana",
+      "capital": " Bangui",
+      "idioma": [
+        "Francés",
+        "Sango"
+      ],
+      "gentilicio": [
+        "Centroafricano/Centroafricana"
+      ],
+      "codigoDivisa": "XAF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Rep%C3%BAblica%20Centroafricana.png?raw=true"
+    },
+    {
+      "id": 145,
+      "pais": "República Checa",
+      "capital": " Praga",
+      "idioma": [
+        "Checo"
+      ],
+      "gentilicio": [
+        "Checo/Checa"
+      ],
+      "codigoDivisa": "CZK",
+      "divisa": "Koruna checa",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Rep%C3%BAblica%20Checa.png?raw=true"
+    },
+    {
+      "id": 146,
+      "pais": "República de Macedonia",
+      "capital": " Skopie",
+      "idioma": [
+        "Macedonio",
+        "Albanés"
+      ],
+      "gentilicio": [
+        "Macedonio/Macedonia"
+      ],
+      "codigoDivisa": "MKD",
+      "divisa": "denar macedonio",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Rep%C3%BAblica%20de%20Macedonia.png?raw=true"
+    },
+    {
+      "id": 147,
+      "pais": "República Democrática del Congo",
+      "capital": " Kinshasa",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Congoleño/Congoleña"
+      ],
+      "codigoDivisa": "CDF",
+      "divisa": "franco congoleño",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Rep%C3%BAblica%20Democr%C3%A1tica%20del%20Congo.png?raw=true"
+    },
+    {
+      "id": 148,
+      "pais": "República Dominicana",
+      "capital": " Santo Domingo",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Dominicano/Dominicana"
+      ],
+      "codigoDivisa": "DOP",
+      "divisa": "peso dominicano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Rep%C3%BAblica%20Dominicana.png?raw=true"
+    },
+    {
+      "id": 149,
+      "pais": "República Sudafricana",
+      "capital": " Pretoria",
+      "idioma": [
+        "Afrikáans",
+        "Inglés",
+        "Xhosa",
+        "Ndebele",
+        "Pedi",
+        "Soto",
+        "Suazi",
+        "Tsonga",
+        "Setsuana",
+        "Venda",
+        "Zulú"
+      ],
+      "gentilicio": [
+        "Sudafricano/Sudafricana"
+      ],
+      "codigoDivisa": "ZAR",
+      "divisa": "rand sudafricano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Rep%C3%BAblica%20Sudafricana.png?raw=true"
+    },
+    {
+      "id": 150,
+      "pais": "Ruanda",
+      "capital": " Kigali",
+      "idioma": [
+        "Ruanda",
+        "Francés",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Ruandés/Ruandesa"
+      ],
+      "codigoDivisa": "RWF",
+      "divisa": "franco ruandés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Ruanda.png?raw=true"
+    },
+    {
+      "id": 151,
+      "pais": "Rumanía",
+      "capital": " Bucarest",
+      "idioma": [
+        "Rumano"
+      ],
+      "gentilicio": [
+        "Rumano/Rumana"
+      ],
+      "codigoDivisa": "RON",
+      "divisa": "leu rumano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Ruman%C3%ADa.png?raw=true"
+    },
+    {
+      "id": 152,
+      "pais": "Rusia",
+      "capital": " Moscú",
+      "idioma": [
+        "Ruso"
+      ],
+      "gentilicio": [
+        "Ruso/Rusa"
+      ],
+      "codigoDivisa": "RUB",
+      "divisa": "rublo ruso",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Rusia.png?raw=true"
+    },
+    {
+      "id": 153,
+      "pais": "Samoa",
+      "capital": " Apia",
+      "idioma": [
+        "Samoano",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Samoano/Samoana"
+      ],
+      "codigoDivisa": "WST",
+      "divisa": "tala samoana",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Samoa.png?raw=true"
+    },
+    {
+      "id": 154,
+      "pais": "San Cristóbal y Nieves",
+      "capital": " Basseterre",
+      "idioma": [
+        "Inglés",
+        "Criollo"
+      ],
+      "gentilicio": [
+        "Cristobaleño/Cristobaleña"
+      ],
+      "codigoDivisa": "XCD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/San%20Crist%C3%B3bal%20y%20Nieves.png?raw=true"
+    },
+    {
+      "id": 155,
+      "pais": "San Marino",
+      "capital": " San Marino",
+      "idioma": [
+        "Italiano"
+      ],
+      "gentilicio": [
+        "Sanmarinense"
+      ],
+      "codigoDivisa": "EUR",
+      "divisa": "euro",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/San%20Marino.png?raw=true"
+    },
+    {
+      "id": 156,
+      "pais": "San Vicente y las Granadinas",
+      "capital": " Kingstown",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Sanvicentino/Sanvicentina"
+      ],
+      "codigoDivisa": "XCD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/San%20Vicente%20y%20las%20Granadinas.png?raw=true"
+    },
+    {
+      "id": 157,
+      "pais": "Santa Lucía",
+      "capital": " Castries",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Santalucense"
+      ],
+      "codigoDivisa": "XCD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Santa%20Luc%C3%ADa.png?raw=true"
+    },
+    {
+      "id": 158,
+      "pais": "Santo Tomé y Príncipe",
+      "capital": " Santo Tomé",
+      "idioma": [
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Santotomense"
+      ],
+      "codigoDivisa": "STN",
+      "divisa": "dobra",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Santo%20Tom%C3%A9%20y%20Pr%C3%ADncipe.png?raw=true"
+    },
+    {
+      "id": 159,
+      "pais": "Senegal",
+      "capital": " Dakar",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Senegalés/Senegalesa"
+      ],
+      "codigoDivisa": "XOF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Senegal.png?raw=true"
+    },
+    {
+      "id": 160,
+      "pais": "Serbia",
+      "capital": " Belgrado",
+      "idioma": [
+        "Serbio"
+      ],
+      "gentilicio": [
+        "Serbio/Serbia"
+      ],
+      "codigoDivisa": "RSD",
+      "divisa": "dinar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Serbia.png?raw=true"
+    },
+    {
+      "id": 161,
+      "pais": "Seychelles",
+      "capital": " Victoria",
+      "idioma": [
+        "Criollo Seychelense",
+        "Francés",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Seychellense"
+      ],
+      "codigoDivisa": "SCR",
+      "divisa": "rupia",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Seychelles.png?raw=true"
+    },
+    {
+      "id": 162,
+      "pais": "Sierra Leona",
+      "capital": " Freetown",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Sierraleonés/Sierraleonesa"
+      ],
+      "codigoDivisa": "SLE",
+      "divisa": "nueva leona",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Sierra%20Leona.png?raw=true"
+    },
+    {
+      "id": 163,
+      "pais": "Singapur",
+      "capital": " Singapur",
+      "idioma": [
+        "Inglés",
+        "Mandarín",
+        "Malayo",
+        "Tamil"
+      ],
+      "gentilicio": [
+        "Singapurense"
+      ],
+      "codigoDivisa": "SGD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Singapur.png?raw=true"
+    },
+    {
+      "id": 164,
+      "pais": "Siria",
+      "capital": " Damasco",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Sirio/Siria"
+      ],
+      "codigoDivisa": "SYP",
+      "divisa": "libra siria",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Siria.png?raw=true"
+    },
+    {
+      "id": 165,
+      "pais": "Somalia",
+      "capital": " Mogadiscio",
+      "idioma": [
+        "Somalí",
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Somalí/Somalía"
+      ],
+      "codigoDivisa": "SOS",
+      "divisa": "chelín somalí",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Somalia.png?raw=true"
+    },
+    {
+      "id": 166,
+      "pais": "Sri Lanka",
+      "capital": " Sri Jayawardenapura Kotte",
+      "idioma": [
+        "Cingalés",
+        "Tamil",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Ceilanés/Ceilanesa",
+        "Ceilandés/Ceilandesa",
+        "Esrilanqués/Esrilanquesa"
+      ],
+      "codigoDivisa": "LKR",
+      "divisa": "rupia",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Sri%20Lanka.png?raw=true"
+    },
+    {
+      "id": 167,
+      "pais": "Suazilandia",
+      "capital": " Lobamba",
+      "idioma": [
+        "Suazi",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Suazi"
+      ],
+      "codigoDivisa": "SZL",
+      "divisa": "lilangeni suazi",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Suazilandia.png?raw=true"
+    },
+    {
+      "id": 168,
+      "pais": "Sudán del Sur",
+      "capital": " Yuba",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Sursudanés/Sursudanesa"
+      ],
+      "codigoDivisa": "SSP",
+      "divisa": "South Sudanese Pound",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Sud%C3%A1n%20del%20Sur.png?raw=true"
+    },
+    {
+      "id": 169,
+      "pais": "Sudán",
+      "capital": " Jartum",
+      "idioma": [
+        "Árabe",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Sudanés/Sudanesa"
+      ],
+      "codigoDivisa": "SDG",
+      "divisa": "dinar sudanés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Sud%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 170,
+      "pais": "Suecia",
+      "capital": " Estocolmo",
+      "idioma": [
+        "Sueco"
+      ],
+      "gentilicio": [
+        "Sueco/Sueca"
+      ],
+      "codigoDivisa": "SEK",
+      "divisa": "corona sueca",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Suecia.png?raw=true"
+    },
+    {
+      "id": 171,
+      "pais": "Suiza",
+      "capital": " Berna",
+      "idioma": [
+        "Alemán",
+        "Francés",
+        "Italiano",
+        "Romanche"
+      ],
+      "gentilicio": [
+        "Suizo/Suiza"
+      ],
+      "codigoDivisa": "CHF",
+      "divisa": "franco suizo",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Suiza.png?raw=true"
+    },
+    {
+      "id": 172,
+      "pais": "Surinam",
+      "capital": " Paramaribo",
+      "idioma": [
+        "Holandés"
+      ],
+      "gentilicio": [
+        "Surinamés/Surinamesa"
+      ],
+      "codigoDivisa": "SRD",
+      "divisa": "dólar surinamés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Surinam.png?raw=true"
+    },
+    {
+      "id": 173,
+      "pais": "Tailandia",
+      "capital": " Bangkok",
+      "idioma": [
+        "Tailandés"
+      ],
+      "gentilicio": [
+        "Tailandés/Tailandesa"
+      ],
+      "codigoDivisa": "THB",
+      "divisa": "baht tailandés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Tailandia.png?raw=true"
+    },
+    {
+      "id": 174,
+      "pais": "Tanzania",
+      "capital": " Dodoma",
+      "idioma": [
+        "Inglés",
+        "Suajili"
+      ],
+      "gentilicio": [
+        "Tanzano/Tanzana"
+      ],
+      "codigoDivisa": "TZS",
+      "divisa": "chelín tanzano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Tanzania.png?raw=true"
+    },
+    {
+      "id": 175,
+      "pais": "Tayikistán",
+      "capital": " Dusambé",
+      "idioma": [
+        "Tayiko"
+      ],
+      "gentilicio": [
+        "Tayiko/Tayika"
+      ],
+      "codigoDivisa": "TJS",
+      "divisa": "somoni tayik",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Tayikist%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 176,
+      "pais": "Timor Oriental",
+      "capital": " Dili",
+      "idioma": [
+        "Tetun",
+        "Portugués"
+      ],
+      "gentilicio": [
+        "Timorense"
+      ],
+      "codigoDivisa": "USD",
+      "divisa": "dólar estadounidense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Timor%20Oriental.png?raw=true"
+    },
+    {
+      "id": 177,
+      "pais": "Togo",
+      "capital": " Lomé",
+      "idioma": [
+        "Francés"
+      ],
+      "gentilicio": [
+        "Togolés/Togolesa"
+      ],
+      "codigoDivisa": "XOF",
+      "divisa": "franco CFA",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Togo.png?raw=true"
+    },
+    {
+      "id": 178,
+      "pais": "Tonga",
+      "capital": " Nukualofa",
+      "idioma": [
+        "Tongano",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Tongano/Tongana"
+      ],
+      "codigoDivisa": "TOP",
+      "divisa": "pa'anga tongano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Tonga.png?raw=true"
+    },
+    {
+      "id": 179,
+      "pais": "Trinidad y Tobago",
+      "capital": " Puerto España",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Trinitense"
+      ],
+      "codigoDivisa": "TTD",
+      "divisa": "dólar",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Trinidad%20y%20Tobago.png?raw=true"
+    },
+    {
+      "id": 180,
+      "pais": "Túnez",
+      "capital": " Túnez",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Tunecino/Tunecina"
+      ],
+      "codigoDivisa": "TND",
+      "divisa": "dinar tunecino",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/T%C3%BAnez.png?raw=true"
+    },
+    {
+      "id": 181,
+      "pais": "Turkmenistán",
+      "capital": " Asjabad",
+      "idioma": [
+        "Turcomano"
+      ],
+      "gentilicio": [
+        "Turcomano/Turcomana",
+        "Turkmeno/Turkmena"
+      ],
+      "codigoDivisa": "TMT",
+      "divisa": "manat turcomano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Turkmenist%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 182,
+      "pais": "Turquía",
+      "capital": " Ankara",
+      "idioma": [
+        "Turco"
+      ],
+      "gentilicio": [
+        "Turco/Turca"
+      ],
+      "codigoDivisa": "TRY",
+      "divisa": "nueva lira",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Turqu%C3%ADa.png?raw=true"
+    },
+    {
+      "id": 183,
+      "pais": "Tuvalu",
+      "capital": " Fongafale",
+      "idioma": [
+        "Tuvaluano",
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Tuvaluano/Tuvaluana"
+      ],
+      "codigoDivisa": "AUD",
+      "divisa": "dólar australiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Tuvalu.png?raw=true"
+    },
+    {
+      "id": 184,
+      "pais": "Ucrania",
+      "capital": " Kiev",
+      "idioma": [
+        "Ucraniano"
+      ],
+      "gentilicio": [
+        "Ucraniano/Ucraniana"
+      ],
+      "codigoDivisa": "UAH",
+      "divisa": "grivna ucrainiana",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Ucrania.png?raw=true"
+    },
+    {
+      "id": 185,
+      "pais": "Uganda",
+      "capital": " Kampala",
+      "idioma": [
+        "Inglés",
+        "Suajili"
+      ],
+      "gentilicio": [
+        "Ugandés/Ugandesa"
+      ],
+      "codigoDivisa": "UGX",
+      "divisa": "chelín ugandés",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Uganda.png?raw=true"
+    },
+    {
+      "id": 186,
+      "pais": "Uruguay",
+      "capital": " Montevideo",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Uruguayo/Uruguaya"
+      ],
+      "codigoDivisa": "UYU",
+      "divisa": "peso uruguayo",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Uruguay.png?raw=true"
+    },
+    {
+      "id": 187,
+      "pais": "Uzbekistán",
+      "capital": " Taskent",
+      "idioma": [
+        "Uzbeko"
+      ],
+      "gentilicio": [
+        "Uzbeko/Uzbeka"
+      ],
+      "codigoDivisa": "UZS",
+      "divisa": "som uzbeko",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Uzbekist%C3%A1n.png?raw=true"
+    },
+    {
+      "id": 188,
+      "pais": "Vanuatu",
+      "capital": " Port Vila",
+      "idioma": [
+        "Bislama",
+        "Inglés",
+        "Francés"
+      ],
+      "gentilicio": [
+        "Vanuatuense"
+      ],
+      "codigoDivisa": "VUV",
+      "divisa": "vatu vanuatense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Vanuatu.png?raw=true"
+    },
+    {
+      "id": 189,
+      "pais": "Venezuela",
+      "capital": " Caracas",
+      "idioma": [
+        "Español"
+      ],
+      "gentilicio": [
+        "Venezolano/Venezolana"
+      ],
+      "codigoDivisa": "VES",
+      "divisa": "bolívar soberano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Venezuela.png?raw=true"
+    },
+    {
+      "id": 190,
+      "pais": "Vietnam",
+      "capital": " Hanói",
+      "idioma": [
+        "Vietnamita"
+      ],
+      "gentilicio": [
+        "Vietnamita"
+      ],
+      "codigoDivisa": "VND",
+      "divisa": "dong vietnamito",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Vietnam.png?raw=true"
+    },
+    {
+      "id": 191,
+      "pais": "Yemen",
+      "capital": " Saná",
+      "idioma": [
+        "Árabe"
+      ],
+      "gentilicio": [
+        "Yemení/Yemení",
+        "Yemenita/Yemenita"
+      ],
+      "codigoDivisa": "YER",
+      "divisa": "rial yemeni",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Yemen.png?raw=true"
+    },
+    {
+      "id": 192,
+      "pais": "Yibuti",
+      "capital": " Yibuti",
+      "idioma": [
+        "Árabe",
+        "Francés"
+      ],
+      "gentilicio": [
+        "Yibutiano/Yibutiana"
+      ],
+      "codigoDivisa": "DJF",
+      "divisa": "franco yibutiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Yibuti.png?raw=true"
+    },
+    {
+      "id": 193,
+      "pais": "Zambia",
+      "capital": " Lusaka",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Zambiano/Zambiana"
+      ],
+      "codigoDivisa": "ZMW",
+      "divisa": "kwacha zambiano",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Zambia.png?raw=true"
+    },
+    {
+      "id": 194,
+      "pais": "Zimbabue",
+      "capital": " Harare",
+      "idioma": [
+        "Inglés"
+      ],
+      "gentilicio": [
+        "Zimbabuense/Zimbabuense"
+      ],
+      "codigoDivisa": "ZWL",
+      "divisa": "dólar zimbabuense",
+      "urlImg": "https://raw.githubusercontent.com/Jamtgoner/country-api/main/src/Banderas/Zimbabue.png?raw=true"
+    }
+  ]
