@@ -22,7 +22,7 @@ export const getPaises = async (_req, res) => {
 export const getPais = async (req, res) => {
   res.header("Access-Control-Allow-Origin", "*");
   try {
-      const [result] = await poolMysql.query(`SELECT * FROM ${DB_NAME}.pais WHERE idPais = ?`, [req.params.id]);
+      const [result] = await poolMysql.query(`SELECT * FROM ${DB_NAME}.pais WHERE id = ?`, [req.params.id]);
 
       if (result.length === 0) {
           return res.status(404).json({ error: "Pais no existe, verificar id" });
