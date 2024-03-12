@@ -19,3 +19,4 @@ Actualmente la API tiene estos diferentes endpoints:
 
 - V1 = MySQL Database
 - V2 = PostgreSQL Database
+- V3 = JSON File
